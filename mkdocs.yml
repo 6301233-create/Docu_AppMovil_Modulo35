@@ -11,3 +11,18 @@ nav:
       - Guía de Instalación: instalacion_movil.md
       - Especificación de API: api_endpoints.md
       - Seguridad y Mantenimiento: seguridad.md
+site_name: Documentación Oficial - Proyecto de Emprendedurismo
+site_author: Estudiantes de 3ro Software - Complejo Educativo Delgado[cite: 2]
+
+theme:[cite: 2]
+  name: material[cite: 2]
+  language: es[cite: 2]
+
+nav:[cite: 2]
+  - Inicio: index.md[cite: 2]
+  - Manual de Usuario UX: manual_usuario_ux.md[cite: 2]
+  - Centro de Ayuda & Videos:[cite: 2]
+      - Preguntas Frecuentes (FAQ): faq.md[cite: 2]
+  - Especificaciones Técnicas:[cite: 2]
+      - Arquitectura y Despliegue: arquitectura_despliegue.md[cite: 2]
+      - Especificación de API: api_endpoints.md[cite: 2]
