@@ -26,7 +26,6 @@ Se recomienda revisar la categoría seleccionada, comprobar que el nombre esté 
 
 Si prefieres ver la explicación en video, visualiza el recorrido guiado por el equipo de desarrollo:[cite: 3]
 
-<video src="https://github.com/JustFangs7/documentacion-sistema-v1/raw/main/docs/videos/videotutorial_proyecto.mp4" controls width="100%">[cite: 3]
-  Tu navegador no soporta la reproducción de video HTML5.[cite: 3]
-  [Haz clic aquí para descargar el video](https://github.com/JustFangs7/documentacion-sistema-v1/blob/main/docs/videos/videotutorial_proyecto.mp4).[cite: 3]
-</video>[cite: 3]
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/amjrGAcOC9I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Haz clic aquí para ver el video directamente en YouTube](https://youtu.be/amjrGAcOC9I)
